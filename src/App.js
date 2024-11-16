@@ -9,6 +9,9 @@ import Step06 from './step/step06';
 import Step07 from './step/step07';
 import Step08 from './step/step08';
 import Event01 from './event/event01';
+import Event02 from './event/event02';
+import Event03 from './event/event03';
+import Event04 from './event/event04';
 
 function App() {
   return (
@@ -21,7 +24,10 @@ function App() {
       {/* <Step06></Step06> */}
       {/* <Step07></Step07> */}
       {/* <Step08></Step08> */}
-      <Event01></Event01>
+      {/* <Event01></Event01> */}
+      {/* <Event02></Event02> */}
+      {/* <Event03></Event03> */}
+      <Event04></Event04>
     </>
   );
 }
